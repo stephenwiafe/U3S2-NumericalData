@@ -1,4 +1,4 @@
-# U2S2 Numerical Data
+# U3S2 Numerical Data
 
 * Part A - Foundations 3.3
 
